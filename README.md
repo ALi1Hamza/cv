@@ -6,7 +6,7 @@
 <body style="background-color: rgb(199, 224, 216);">
     <table cellspacing="20">
 <tr>
-     <td><img src="images/hamza.png" alt="hamza image" width="200" height="200"></td>
+     <td><img src="hamza.png" alt="hamza image" width="200" height="200"></td>
     <td><h1>Ali Hamza</h1>
     <p>i am SEO expert and i am a student still studing.</p>
     <p>i am also working on Full Stack Web Development.</p>
